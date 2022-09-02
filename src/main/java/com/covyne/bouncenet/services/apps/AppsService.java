@@ -1,8 +1,9 @@
-package com.covyne.bouncenet.apps;
+package com.covyne.bouncenet.services.apps;
 
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+
 
 @Service
 public class AppsService {
